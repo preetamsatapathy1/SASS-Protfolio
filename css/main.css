@@ -193,8 +193,8 @@
 .about__bio-image {
   height: 50vh;
   width: 100%;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.9)), to(rgba(39, 39, 39, 0.3))), url("../img/Businessman-fashion-1170x780.webp") center left;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url("../img/Businessman-fashion-1170x780.webp") center left;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.9)), to(rgba(39, 39, 39, 0.3))), url("../img/Businessman-fashion-1170x780.webp") bottom;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url("../img/Businessman-fashion-1170x780.webp") bottom;
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
